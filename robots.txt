@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://icetaidoon.bigdatabigmovies.com/sitemap.xml
